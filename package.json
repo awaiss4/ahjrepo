@@ -1,0 +1,22 @@
+{
+  "name": "helloapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaiss4/ahjrepo.git"
+  },
+  "author": "iamawais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awaiss4/ahjrepo/issues"
+  },
+  "homepage": "https://github.com/awaiss4/ahjrepo#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
